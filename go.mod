@@ -9,5 +9,5 @@ require (
 	github.com/sirupsen/logrus v1.6.0
 	github.com/valyala/fastrand v1.0.0
 	go.uber.org/zap v1.16.0
-	gopkg.in/yaml.v2 v2.2.8 // indirect
+	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
